@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 未来的博客</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on 未来的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Tue, 02 Jun 2020 23:08:31 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>铛铛铛开博了</title>
+      <link>http://example.org/posts/%E9%93%9B%E9%93%9B%E9%93%9B%E5%BC%80%E5%8D%9A%E4%BA%86/</link>
+      <pubDate>Tue, 02 Jun 2020 23:08:31 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E9%93%9B%E9%93%9B%E9%93%9B%E5%BC%80%E5%8D%9A%E4%BA%86/</guid>
+      <description>大家好 我的第一篇博客</description>
+    </item>
+    
+  </channel>
+</rss>
